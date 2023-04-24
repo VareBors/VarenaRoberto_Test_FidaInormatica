@@ -1,0 +1,24 @@
+.title {
+    background-color: #f5f5f5;
+    height: 35px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.currencySelect {
+    font-weight: bold;
+}
+
+.currencyOption {
+    font-weight: bold;
+}
+
+.col-form-label{
+    text-align: right;
+}
+
+.btn-primary {
+    background-color: #85af4b !important;
+}

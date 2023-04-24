@@ -1,0 +1,16 @@
+{
+    "titleLabel" : "Operation data",
+    "currencyLabel" : "Wallet currency",
+    "causalTypeLabel" :"Causal type",
+    "operationDateLabel" : "Operation date",
+    "toolLabel" : "Tool",
+    "quantityLabel" : "Quantity",
+    "priceLabel" : "Price",
+    "amountLabel" : "Amount",
+    "insertButtonText" : "Insert",
+    "causalTypeSelectOption" : {
+        "purchase" : "Purchase",
+        "sale" : "Sale"
+    }
+    
+}

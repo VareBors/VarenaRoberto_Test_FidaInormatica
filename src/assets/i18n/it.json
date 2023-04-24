@@ -1,0 +1,15 @@
+{
+    "titleLabel" : "Dati dell'operazione",
+    "currencyLabel" : "Valuta del portafoglio",
+    "causalTypeLabel" :"Tipo causale",
+    "operationDateLabel" : "Data operazione",
+    "toolLabel" : "Strumento",
+    "quantityLabel" : "Quantità",
+    "priceLabel" : "Prezzo",
+    "amountLabel" : "Importo",
+    "insertButtonText" : "Inserisci",
+    "causalTypeSelectOption" : {
+        "purchase" : "Acquisto",
+        "sale" : "Vendita"
+    }
+}
